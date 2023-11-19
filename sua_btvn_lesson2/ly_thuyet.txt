@@ -1,0 +1,10 @@
+1) c = (a**2 + b**2)**(1/2)
+Chú ý: sqrt(a) = a^(1/2)
+
+2) num = int(num)
+
+3) D. rate = 12%
+
+4) A. <class 'str'>
+
+5) D. chương trình báo lỗi
